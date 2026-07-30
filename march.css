@@ -1,0 +1,458 @@
+*{
+margin: 0;
+font-family: 'Times New Roman', Times, serif;
+}
+.container-fluid{
+    background-color: #e0dbd6;
+}
+
+.nav-link:hover{
+    color: chocolate;
+}
+
+.ido{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.vh{
+    background-image: url(./images/background-2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 7%;
+    padding-right: 7%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;     
+    gap: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    /* display: flexbox;
+    flex-wrap: 200px;
+    flex-grow: 1; 
+    gap: 20px; */
+}
+
+.apple{
+    background-color: #4b4641;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.opay{
+    width: 20%;
+    border-radius: 40px;  
+    padding-top: 10px;
+}
+.dady{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.yad{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+.sug{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.sugar{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.bab{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.babe{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.fem{
+    background-image: url(./images/background-3\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.pko{
+    background-color: #242323;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.okp{
+    display: grid;
+    grid-template-columns: 2% 2% 2%;
+    gap: 20px;
+    justify-content: center;
+}
+.fa-brands{
+    color: white;
+    font-size: 30px;
+}
+ol{
+    display: flex;
+   gap: 20px;
+   justify-content: center;
+   padding-top: 20px;
+}
+.ci{
+    text-decoration: none;
+    color: white;
+}
+.ci:hover{
+color: red;
+}
+.pop{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.lol{
+    background-image: url(./images/background-5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+.yek{
+    background-image: url(./images/background-3\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.key{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.lie{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.vielle{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px; 
+}
+.son{
+    background-image: url(./images/background-2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.fils{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: white;
+  
+}
+.yazo{
+    padding-left: 7%;
+    padding-right: 7%;
+    background-color: #4b4641;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.yazid{
+    color: white;
+}
+.pel{
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.right{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.moc{
+    display: flex;
+    justify-content: center;
+}
+.com{
+    background-color:#242323;
+    color: white;
+    width: 50%;
+    padding-right: 7%;
+    padding-left: 7%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.loc{
+        background-image: url(./images/background-5.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.9;
+}
+.poc{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.rit{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.lop{
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.papy{
+        padding-left: 7%;
+        padding-right: 7%;
+}
+.pady{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+ }
+ .who{
+    background-image:url(./images/flip-box-1.jpg) ;
+    background-repeat: no-repeat ;
+    background-size: cover ;
+    background-position: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+ }
+ .which{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-left: 7%;
+    padding-right: 7%;
+    gap: 20px;
+ }
+ .whom {
+    background-image:url(./images/flip-box-4.jpg) ;
+    background-repeat: no-repeat ;
+    background-size: cover ;
+    background-position: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+ }
+ .whose{
+    background-image:url(./images/flip-box-3.jpg) ;
+    background-repeat: no-repeat ;
+    background-size: cover ;
+    background-position: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+ }
+ .why{
+    background-image: url(./images/flip-box-2.jpg) ;
+    background-repeat: no-repeat ;
+    background-size: cover ;
+    background-position: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+ }
+ .alaka{
+    padding-right: 7%;
+    padding-left: 7%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+ }
+ .yap{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+ }
+ .cady{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+ }
+ .cach{
+    padding-right: 7%;
+    padding-left: 7%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+ }
+ .col{
+    background-image: url(./images/background-5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+.coc{
+padding-top: 100px;
+padding-bottom: 100px;
+}
+.like{
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.vibe{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px; 
+}
+@media(max-width:768px){
+    .vh{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .yad{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .sugar{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .babe{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .okp{
+        display: grid;
+        grid-template-columns: 8% 8% 8%;
+        gap: 20px;
+        justify-content: center;
+    }
+    ol{
+        display: block;
+       gap: 20px;
+       text-align: center;
+       padding-top: 20px;
+       font-size: 20px;
+    }
+    .key{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding-left: 7%;
+        padding-right: 7%;
+    }
+    .vielle{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px; 
+    }
+    .fils{
+        display: grid;
+        grid-template-columns: 1fr;
+        color: white;
+    }
+    .right{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    .com{
+        width: 100%;
+    }
+    .pady{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 30px;
+     }
+     .rit{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+     .yap{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 30px;
+     }
+     .cady{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 30px;
+     }
+     .which{
+        display: grid;
+        grid-template-columns: 1fr;
+     }
+     .vibe{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+@media(max-width:992px){
+    .vh{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .yad{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .sugar{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .babe{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .okp{
+        display: grid;
+        grid-template-columns: 10% 10% 10%;
+        gap: 20px;
+        justify-content: center;
+    }
+    ol{
+       gap: 20px;
+       text-align: center;
+       padding-top: 20px;
+       font-size: 25px;
+    }
+    .key{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding-left: 7%;
+        padding-right: 7%;
+    }
+    .vielle{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px; 
+    }
+    .fils{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        color: white;
+    }
+    .right{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    .yap{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 30px;
+     }
+}
+
+
+
+   
